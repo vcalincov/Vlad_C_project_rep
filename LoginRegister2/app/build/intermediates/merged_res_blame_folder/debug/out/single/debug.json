@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\layout_announcement_list.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\layout\\announcement_list.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_aa.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\layout\\activity_aa.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\font_poppinsmedium.ttf.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\font\\poppinsmedium.ttf"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_announcement.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\layout\\activity_add_announcement.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_drawer_menu.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\menu\\nav_drawer_menu.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\font_poppinsbold.ttf.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fullname.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\drawable\\ic_fullname.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Alex\\LoginRegister2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Alex\\LoginRegister2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
